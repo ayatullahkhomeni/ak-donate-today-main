@@ -31,6 +31,15 @@ h2 {
 
 }
 
+.s2 {
+    color: black;
+}
+
+.s2 h1 {
+    font-size: 50px;
+    color: black;
+}
+
 .half-width p {
     color: white;
 }
@@ -86,14 +95,14 @@ h2 {
     background-position: left;
 }
 
-.experiences-item {
-    width: 40%;
+.s5 {
+    width: 5%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 30px;
+    padding-left: 10px;
     padding-right: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 10px 10px gray;
 }
 
 .experiences-item p {
