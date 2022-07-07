@@ -12,7 +12,6 @@ h2 {
     font-size: 25px;
 }
 
-
 .orange-color {
     color: orange;
 }
@@ -20,7 +19,6 @@ h2 {
 .flexible-container {
     display: flex;
     margin-bottom: 150px;
-
 }
 
 .half-width {
@@ -28,7 +26,6 @@ h2 {
     padding: 10% 20%;
     padding-right: 0%;
     text-align: center;
-
 }
 
 .s2 {
@@ -118,12 +115,11 @@ section {
 }
 
 #d2 {
-    broder: 7px red
+    border: 7px red
 }
 
 .experiences-item p {
     text-align: justify;
-
 }
 
 #tc {
@@ -138,8 +134,19 @@ section {
     font-size: 35px;
 }
 
-#full-stack-web-developer {
-    border-left: 7px solid tomato;
+#full {
+    border: 7px solid tomato;
+    background-color: bisque;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+#full p {
+    text-align: justify;
+}
+
+#full h3 {
+    text-align: center;
 }
 
 #baby-web-developer {
