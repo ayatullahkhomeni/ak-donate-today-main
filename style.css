@@ -56,13 +56,18 @@ h2 {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    position: center;
+}
+
+section {
+    padding-top: 50px;
 }
 
 .top-banner {
     background-image: url(images2/donation6.jpg);
     background-repeat: no-repeat;
     width: 100%;
-    background-position: centert;
+    background-position: center;
 }
 
 .top-banner p {
@@ -89,6 +94,11 @@ h2 {
     color: orange;
 }
 
+#d2 {
+    border: 7px red;
+    background-color: beige;
+}
+
 .experiences-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
@@ -97,20 +107,31 @@ h2 {
 
 .s5 {
     width: 50%;
-    height: 20%;
-    margin-left: 10%;
-    margin-right: 5%;
-    padding-left: 10px;
-    padding-right: 20px;
+    height: 90px;
+    margin-left: 5%;
+    padding-left: 5px;
+    padding-right: 5px;
     border-radius: 5px;
-    box-shadow: 10px 10px 80px gray;
+    box-shadow: 10px 10px 100px gray;
     display: flex;
     margin-bottom: 10px;
+}
+
+#d2 {
+    broder: 7px red
 }
 
 .experiences-item p {
     text-align: justify;
 
+}
+
+#tc {
+    text-align: center;
+}
+
+#d15 {
+    margin-left: 25%;
 }
 
 .experiences-item h1 {
@@ -123,6 +144,11 @@ h2 {
 
 #baby-web-developer {
     border-left: 7px solid blue;
+}
+
+.p3 {
+    position: center;
+    color: black;
 }
 
 footer h2 {
