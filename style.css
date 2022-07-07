@@ -5,6 +5,7 @@ body {
 
 h1 {
     font-size: 50px;
+    color: white;
 }
 
 h2 {
@@ -42,12 +43,17 @@ h2 {
 }
 
 .top-banner {
-    background-image: url(images/top-banner.png);
+    background-image: url(images2/donation6.jpg);
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 .top-banner p {
     text-align: justify;
+}
+
+.top-banner img {
+    margin-left: 20%;
 }
 
 .dream-big {
